@@ -1,2 +1,3 @@
-Git is a version control system
-GitHub is a version control platform based on Git
+1. Git is a version control system.
+2. GitHub is a version control platform based on Git.
+
